@@ -1,0 +1,18 @@
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

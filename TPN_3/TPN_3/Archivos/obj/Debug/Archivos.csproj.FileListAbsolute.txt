@@ -1,0 +1,18 @@
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Archivos\bin\Debug\Archivos.dll
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Archivos\bin\Debug\Archivos.pdb
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Archivos\bin\Debug\Excepciones.dll
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Archivos\obj\Debug\Archivos.dll
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Archivos\obj\Debug\Archivos.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Archivos\bin\Debug\Archivos.dll
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Archivos\bin\Debug\Archivos.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Archivos\bin\Debug\Excepciones.dll
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Archivos\obj\Debug\Archivos.dll
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Archivos\obj\Debug\Archivos.pdb

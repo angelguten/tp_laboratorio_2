@@ -1,0 +1,32 @@
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\bin\Debug\Test.exe.config
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\bin\Debug\Test.exe
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\bin\Debug\Test.pdb
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\bin\Debug\Archivos.dll
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\bin\Debug\Clases Abstractas.dll
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\bin\Debug\Clases Instanciables.dll
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\bin\Debug\Excepciones.dll
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\bin\Debug\Archivos.pdb
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\bin\Debug\Clases Abstractas.pdb
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\bin\Debug\Clases Instanciables.pdb
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\bin\Debug\Excepciones.pdb
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\obj\Debug\Test.exe
+C:\Users\ARIEL\source\repos\Barrionuevo.Angel.2C\Barrionuevo.Angel.2C\Test\obj\Debug\Test.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\bin\Debug\Test.exe.config
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\bin\Debug\Test.exe
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\bin\Debug\Test.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\bin\Debug\Archivos.dll
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\bin\Debug\Clases Abstractas.dll
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\bin\Debug\Clases Instanciables.dll
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\bin\Debug\Excepciones.dll
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\bin\Debug\Archivos.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\bin\Debug\Clases Abstractas.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\bin\Debug\Clases Instanciables.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\bin\Debug\Excepciones.pdb
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\obj\Debug\Test.exe
+C:\Users\ARIEL\Desktop\TPs Laboratorio II\TP3\Barrionuevo.Angel.2C\Test\obj\Debug\Test.pdb
